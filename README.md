@@ -1,12 +1,12 @@
 推荐你通过在线阅读网站进行阅读，体验更好，速度更快！地址：[javaguide.cn](https://javaguide.cn/)。
 
-[<img src="https://oss.javaguide.cn/xingqiu/xingqiu.png" style="width:850px;margin: 0 auto" />](https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html)
-
 <div align="center">
 
 [![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)
 
 [GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)
+
+<a href="https://trendshift.io/repositories/1319" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1319" alt="Snailclimb%2FJavaGuide | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 </div>
 
@@ -313,15 +313,13 @@ JVM 这部分内容主要参考 [JVM 虚拟机规范-Java8](https://docs.oracle.
 - [JWT 优缺点分析以及常见问题解决方案](./docs/system-design/security/advantages-and-disadvantages-of-jwt.md)
 - [SSO 单点登录详解](./docs/system-design/security/sso-intro.md)
 - [权限系统设计详解](./docs/system-design/security/design-of-authority-system.md)
+
+#### 数据安全
+
 - [常见加密算法总结](./docs/system-design/security/encryption-algorithms.md)
-
-#### 数据脱敏
-
-数据脱敏说的就是我们根据特定的规则对敏感信息数据进行变形，比如我们把手机号、身份证号某些位数使用 \* 来代替。
-
-#### 敏感词过滤
-
-[敏感词过滤方案总结](./docs/system-design/security/sentive-words-filter.md)
+- [敏感词过滤方案总结](./docs/system-design/security/sentive-words-filter.md)
+- [数据脱敏方案总结](./docs/system-design/security/data-desensitization.md)
+- [为什么前后端都要做数据校验](./docs/system-design/security/data-validation.md)
 
 ### 定时任务
 
